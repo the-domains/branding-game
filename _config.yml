@@ -1,16 +1,16 @@
-typography_spectrum: 0.5927369662094861
+typography_spectrum: 0.32560465089045465
 color:
-  brandStrength: 0.07559757027775049
-  lightness: 0.08757999259978533
-  saturation: 0.9113449994474649
-  rhythmicContrast: 0.32521026860922575
+  brandStrength: 0.5900209753308445
+  lightness: 0.9986582305282354
+  saturation: 0.9521141860168427
+  rhythmicContrast: 0.685722817433998
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 layout_spectrum: 0.6016344921663404
 name: Branding game
-title: ''
+title: Brands don't stop. Neither you
 description: Brands don't stop. Neither you
