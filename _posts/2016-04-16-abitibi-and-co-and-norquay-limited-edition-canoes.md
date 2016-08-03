@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T15:56:34.285Z'
+datePublished: '2016-08-03T16:32:08.872Z'
 sourcePath: _posts/2016-04-16-abitibi-and-co-and-norquay-limited-edition-canoes.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/limited-edition-abitibi-co-canoes'
@@ -17,7 +17,7 @@ keywords:
   - creative
 related: []
 author: []
-dateModified: '2016-08-03T15:56:32.070Z'
+dateModified: '2016-08-03T16:32:08.151Z'
 title: abitibi & co and Norquay Limited Edition Canoes
 app_links: []
 publisher:
