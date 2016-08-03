@@ -1,0 +1,14 @@
+layout_spectrum: 0.6016344921663404
+typography_spectrum: 0.32560465089045465
+color:
+  brandStrength: 0.5900209753308445
+  lightness: 0.9986582305282354
+  saturation: 0.9521141860168427
+  rhythmicContrast: 0.685722817433998
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Branding game
